@@ -1,0 +1,20 @@
+{
+  "name": "firstdevops",
+  "version": "1.0.0",
+  "description": "A simple Node.js application. Mainly a stand-in for something simple to containerize and deploy",
+  "main": "index.js",
+  "scripts": {
+    "app": "node index.js",
+    "test": "mocha"
+  },
+  "keywords": [
+    "node",
+    "devops",
+    "nginx"
+  ],
+  "author": "Matthew Hruz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
