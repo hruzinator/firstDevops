@@ -4,7 +4,7 @@
   "description": "A simple Node.js application. Mainly a stand-in for something simple to containerize and deploy",
   "main": "index.js",
   "scripts": {
-    "app": "node index.js",
+    "start": "node index.js",
     "test": "mocha"
   },
   "keywords": [
